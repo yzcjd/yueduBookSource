@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/yzcjd/yuedu_book_source/1/bookSource
+https://raw.githubusercontent.com/yzcjd/yueduBookSource/1/bookSource
