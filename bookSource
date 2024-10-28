@@ -102,7 +102,7 @@
     },
     "searchUrl": "http://www.yuedsk.com/modules/article/search.php?q={{key}}",
     "weight": 0
-  }
+  },
   {
     "bookSourceGroup": "电报yzcjd",
     "bookSourceName": "当阅读网-yzcjd",
