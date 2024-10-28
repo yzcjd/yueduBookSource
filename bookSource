@@ -48,6 +48,8 @@
     "searchUrl": "/modules/article/search.php?s={{key}}&searchtype=articlename",
     "weight": 0
   }
+]
+[
   {
     "bookSourceGroup": "电报yzcjd",
     "bookSourceName": "阅读库-yzcjd",
