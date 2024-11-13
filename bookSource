@@ -1,8 +1,8 @@
 [
 {
   "bookSourceComment": "",
-  "bookSourceGroup": "yzcjd",
-  "bookSourceName": "爱宝贝-yzcjd", 
+  "bookSourceGroup": "yzc",
+  "bookSourceName": "爱宝贝-yzc", 
   "bookSourceType": 0,
   "bookSourceUrl": "https://www.ibabyxs8.com",
   "customOrder": -2085978355,
@@ -49,8 +49,8 @@
 },
   {
     "bookSourceComment": "20241029",
-    "bookSourceGroup": "电报yzcjd",
-    "bookSourceName": "玄幻阁-yzcjd",
+    "bookSourceGroup": "电报yzc",
+    "bookSourceName": "玄幻阁-yzc",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.xuankuge.com",
     "bookUrlPattern": "",
@@ -97,8 +97,8 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "电报yzcjd",
-    "bookSourceName": "阅读库-yzcjd",
+    "bookSourceGroup": "yzc",
+    "bookSourceName": "阅读库-yzc",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.yuedsk.com",
     "bookUrlPattern": "http://www.yuedsk.com/book/\\d+/",
@@ -152,8 +152,8 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "电报yzcjd",
-    "bookSourceName": "当阅读网-yzcjd",
+    "bookSourceGroup": "yzc",
+    "bookSourceName": "当阅读网-yzc",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.dangyuedu.com",
     "customOrder": -2085978353,
