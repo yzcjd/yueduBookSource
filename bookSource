@@ -1,12 +1,97 @@
 [
 {
+  "bookSourceComment": "//网站宕机，等待自己恢复。",
+  "bookSourceGroup": "yzc",
+  "bookSourceName": "过期杂志-yzc",
+  "bookSourceType": 0,
+  "bookSourceUrl": "https://m.fx361.com",
+  "customOrder": 38,
+  "enabled": true,
+  "enabledCookieJar": true,
+  "enabledExplore": true,
+  "exploreUrl": "[{\"title\":\"分类\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},{\"title\":\"时政综合\",\"url\":\"/bk/szzh.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"文学小说\",\"url\":\"/bk/wxxs.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"文摘文萃\",\"url\":\"/bk/wzwc.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"娱乐时尚\",\"url\":\"/bk/ylss.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"商业财经\",\"url\":\"/bk/sycj.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"人文科普\",\"url\":\"/bk/rwkp.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"学生必读\",\"url\":\"/bk/xsbd.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"家庭养生\",\"url\":\"/bk/jtys.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"旅游美食\",\"url\":\"/bk/lyms.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"摄影数码\",\"url\":\"/bk/sysm.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"艺术收藏\",\"url\":\"/bk/yssc.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"农业乡村\",\"url\":\"/bk/nyxc.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"文化综合\",\"url\":\"/bk/whzh.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"职场理财\",\"url\":\"/bk/zclc.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"学术\",\"url\":\"/bk/xs.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"军事\",\"url\":\"/bk/js.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"体育\",\"url\":\"/bk/tiyu.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"汽车\",\"url\":\"/bk/qc.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"环球时报\",\"url\":\"/bk/hqsb/\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},{\"title\":\"2024\",\"url\":\"/bk/hqsb/history_2024<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2023\",\"url\":\"/bk/hqsb/history_2023<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2022\",\"url\":\"/bk/hqsb/history_2022<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2021\",\"url\":\"/bk/hqsb/history_2021<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2020\",\"url\":\"/bk/hqsb/history_2020<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2019\",\"url\":\"/bk/hqsb/history_2019<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2018\",\"url\":\"/bk/hqsb/history_2018<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2017\",\"url\":\"/bk/hqsb/history_2017<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2016\",\"url\":\"/bk/hqsb/history_2016<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2015\",\"url\":\"/bk/hqsb/history_2015<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2014\",\"url\":\"/bk/hqsb/history_2014<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2013\",\"url\":\"/bk/hqsb/history2013<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2012\",\"url\":\"/bk/hqsb/history_2012<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2010\",\"url\":\"/bk/hqsb/history_2010<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"2009\",\"url\":\"/bk/hqsb/history_2009<,_{{page}}>.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}}]",
+  "header": "",
+  "lastUpdateTime": 1749161787391,
+  "respondTime": 5011,
+  "ruleBookInfo": {
+    "author": "",
+    "coverUrl": "",
+    "init": "",
+    "intro": "",
+    "kind": "",
+    "name": ""
+  },
+  "ruleContent": {
+    "content": ".wz_content@html",
+    "imageStyle": "FULL"
+  },
+  "ruleExplore": {
+    "author": "",
+    "bookList": ".zh-list@li||.list@li",
+    "bookUrl": "a@href",
+    "coverUrl": "img@data-original",
+    "kind": "span.0@text&&h3@text",
+    "name": "a@title"
+  },
+  "ruleSearch": {
+    "author": ".s1@text##\\s.*",
+    "bookList": ".search_page@li",
+    "bookUrl": "a@href",
+    "checkKeyWord": "深渊",
+    "coverUrl": "img@src",
+    "kind": "{{@@p.time@text}},{{@@.s1@text##.*\\s}},{{@@.s2@text##\\s.*}}",
+    "lastChapter": "",
+    "name": "p.title@text&&.ar_title@text"
+  },
+  "ruleToc": {
+    "chapterList": ".kw-mulu-list@p,.kw-mulu-list@li@a||h3",
+    "chapterName": "text",
+    "chapterUrl": "href",
+    "isVolume": "p@text"
+  },
+  "searchUrl": "/search/index.html?keyword={{key}},{\"webView\":true}",
+  "weight": 0
+},
+{
+  "bookSourceComment": "2025.3.7\n需要代理",
+  "bookSourceGroup": "yzc",
+  "bookSourceName": "小说狂人-yzc",
+  "bookSourceType": 0,
+  "bookSourceUrl": "https://czbooks.net/",
+  "customOrder": -3,
+  "enabled": true,
+  "enabledCookieJar": false,
+  "enabledExplore": true,
+  "exploreUrl": "@js:\n\nvar sort=[],\npush=(title,surl,size)=>sort.push({\n    title: title,\n    url: surl,\n    style: {\n      layout_flexGrow: 1,\n      layout_flexBasisPercent: size,\n     }\n  });\n\t\npush(\"༺ˇ»`ʚ排行榜ɞ´«ˇ༻\",null,1,1);\n\n[[\"精选日榜\",\"day\"],[\"精选周榜\",\"week\"],[\"精选总榜\",\"total\"]].map([title,uri]=>push(title, `https://czbooks.net/c/normal/${uri}/{{page}}`, 0.25));\n\n[[\"人气日榜\",\"day\"],[\"人气周榜\",\"week\"],[\"人气总榜\",\"total\"]].map([title,uri]=>push(title, `https://czbooks.net/c/all/${uri}/{{page}}`, 0.25));\n\n[[\"收藏日榜\",\"day\"],[\"收藏周榜\",\"week\"],[\"收藏总榜\",\"total\"]].map([title,uri]=>push(title, `https://czbooks.net/c/favorite/${uri}/{{page}}`, 0.25));\n\n[[\"完结日榜\",\"day\"],[\"完结周榜\",\"week\"],[\"完结总榜\",\"total\"]].map([title,uri]=>push(title, `https://czbooks.net/c/finish/${uri}/{{page}}`, 0.25));\n\n[[\"工口日榜\",\"day\"],[\"工口周榜\",\"week\"],[\"工口总榜\",\"total\"]].map([title,uri]=>push(title, `https://czbooks.net/c/hot/${uri}/{{page}}`, 0.25));\n\n[[\"原创最新\",\"new\"],[\"原创日榜\",\"day\"],[\"原创周榜\",\"week\"],[\"原创总榜\",\"total\"],[\"------\",],[\"原创完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/creator/${uri}/{{page}}`, 0.25));\n\n\npush(\"༺ˇ»`ʚ分类ɞ´«ˇ༻\",null,1,1);\n\n\n[[\"玄幻最新\",\"new\"],[\"玄幻日榜\",\"day\"],[\"玄幻周榜\",\"week\"],[\"玄幻总榜\",\"total\"],[\"------\",],[\"玄幻完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/xuanhuan/${uri}/{{page}}`, 0.25));\n\n[[\"言情最新\",\"new\"],[\"言情日榜\",\"day\"],[\"言情周榜\",\"week\"],[\"言情总榜\",\"total\"],[\"------\",],[\"言情完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/yanqing/${uri}/{{page}}`, 0.25));\n\n[[\"仙武最新\",\"new\"],[\"仙武日榜\",\"day\"],[\"仙武周榜\",\"week\"],[\"仙武总榜\",\"total\"],[\"------\",],[\"仙武完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/xianxia/${uri}/{{page}}`, 0.25));\n\n[[\"军史最新\",\"new\"],[\"军史日榜\",\"day\"],[\"军史周榜\",\"week\"],[\"军史总榜\",\"total\"],[\"------\",],[\"军史完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/lishi/${uri}/{{page}}`, 0.25));\n\n[[\"科游最新\",\"new\"],[\"科游日榜\",\"day\"],[\"科游周榜\",\"week\"],[\"科游总榜\",\"total\"],[\"------\",],[\"科游完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/wangyou/${uri}/{{page}}`, 0.25));\n\n[[\"灵异最新\",\"new\"],[\"灵异日榜\",\"day\"],[\"灵异周榜\",\"week\"],[\"灵异总榜\",\"total\"],[\"------\",],[\"灵异完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/lingyi/${uri}/{{page}}`, 0.25));\n\n[[\"女同最新\",\"new\"],[\"女同日榜\",\"day\"],[\"女同周榜\",\"week\"],[\"女同总榜\",\"total\"],[\"------\",],[\"女同完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/tongren/${uri}/{{page}}`, 0.25));\n\n[[\"原同最新\",\"new\"],[\"原同日榜\",\"day\"],[\"原同周榜\",\"week\"],[\"原同总榜\",\"total\"],[\"------\",],[\"原同完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/erciyuan/${uri}/{{page}}`, 0.25));\n\n[[\"耽美最新\",\"new\"],[\"耽美日榜\",\"day\"],[\"耽美周榜\",\"week\"],[\"耽美总榜\",\"total\"],[\"------\",],[\"耽美完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/danmei/${uri}/{{page}}`, 0.25));\n\n[[\"百合最新\",\"new\"],[\"百合日榜\",\"day\"],[\"百合周榜\",\"week\"],[\"百合总榜\",\"total\"],[\"------\",],[\"百合完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/baihe/${uri}/{{page}}`, 0.25));\n\n[[\"日系最新\",\"new\"],[\"日系日榜\",\"day\"],[\"日系周榜\",\"week\"],[\"日系总榜\",\"total\"],[\"------\",],[\"日系完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/japan/${uri}/{{page}}`, 0.25));\n\n[[\"奇冒最新\",\"new\"],[\"奇冒日榜\",\"day\"],[\"奇冒周榜\",\"week\"],[\"奇冒总榜\",\"total\"],[\"------\",],[\"奇冒完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/fanatsy/${uri}/{{page}}`, 0.25));\n\n[[\"电视最新\",\"new\"],[\"电视日榜\",\"day\"],[\"电视周榜\",\"week\"],[\"电视总榜\",\"total\"],[\"------\",],[\"电视完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/drama/${uri}/{{page}}`, 0.25));\n\n[[\"情工最新\",\"new\"],[\"情工日榜\",\"day\"],[\"情工周榜\",\"week\"],[\"情工总榜\",\"total\"],[\"------\",],[\"情工完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/herotic/${uri}/{{page}}`, 0.25));\n\n[[\"耽工最新\",\"new\"],[\"耽工日榜\",\"day\"],[\"耽工周榜\",\"week\"],[\"耽工总榜\",\"total\"],[\"------\",],[\"耽工完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/blerotic/${uri}/{{page}}`, 0.25));\n\n[[\"经典最新\",\"new\"],[\"经典日榜\",\"day\"],[\"经典周榜\",\"week\"],[\"经典总榜\",\"total\"],[\"------\",],[\"经典完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/classicbook/${uri}/{{page}}`, 0.25));\n\n[[\"推理最新\",\"new\"],[\"推理日榜\",\"day\"],[\"推理周榜\",\"week\"],[\"推理总榜\",\"total\"],[\"------\",],[\"推理完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/suspense/${uri}/{{page}}`, 0.25));\n\n[[\"女性最新\",\"new\"],[\"女性日榜\",\"day\"],[\"女性周榜\",\"week\"],[\"女性总榜\",\"total\"],[\"------\",],[\"女性完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/girl/${uri}/{{page}}`, 0.25));\n\n[[\"短篇最新\",\"new\"],[\"短篇日榜\",\"day\"],[\"短篇周榜\",\"week\"],[\"短篇总榜\",\"total\"],[\"------\",],[\"短篇完本\",\"finish\"]].map([title,uri]=>push(title, `https://czbooks.net/c/short/${uri}/{{page}}`, 0.25));\n\n\nJSON.stringify(sort);",
+  "jsLib": "function method(result){ const { java, source, cookie } = this ;result=result.replace(/仿真/g,'模拟');return java.t2s(result)}",
+  "lastUpdateTime": 1753275414941,
+  "respondTime": 4192,
+  "ruleBookInfo": {
+    "author": "span.author@a@text",
+    "coverUrl": ".thumbnail@img@src",
+    "init": "<js>method(result)</js>",
+    "intro": "&nbsp;🕰  更新：{{@@table@tbody@tr.-2@td.1@text}}\n\n👁  阅读：{{@@table@tbody@tr.2@td.1@text}}\n\n❤️  收藏：{{@@table@tbody@tr.1@td.1@text}}\n\n🏷  标签：{{@@ul.hashtag@li.item[:4]@a@text##\\n##·}}\n\n☘️  最新：{{@@#chapter-list@a.-1@text##正文卷.|正文.|VIP卷.|默认卷.|卷_|VIP章节.|免费章节.|章节目录.|最新章节.|[\\(（【].*?[求含理更谢乐发推票盟补加字].*?[】）\\)]}}\n\n📜  简介：\n{{@@.description@html}}\n\n{{'\\n'+'​'}}\n🍚  书评：\n👤 用户名：{{@@li.comment-item[:4]@text##\\n##<p>👤 用户名：}}\n<js>result\n.replace(/\\s(..)前/g,' \\n⏰ 时间：$1前')\n.replace(/\\s(\\d+)\\s/g,' 👍🏻 点赞：$1 \\n📖 评论：')\n.replace(/\\s・/g,' 📘章节：')\n</js>",
+    "kind": "{{@@table@tbody@tr.0@td.1@text}}\n{{@@table@tbody@tr.-1@td.1@text}}\n{{@@table@tbody@tr.-2@td.1@text}}",
+    "lastChapter": "{{@@#chapter-list@a.-1@text##正文卷.|正文.|VIP卷.|默认卷.|卷_|VIP章节.|免费章节.|章节目录.|最新章节.|[\\(（【].*?[求含理更谢乐发推票盟补加字].*?[】）\\)]}}•{{@@table@tbody@tr.-2@td.1@text}}\n@js:result\n.replace(\"••\",\"\")\n.replace(/^(\\d+).第/,'第')\n.replace(/^(\\d+)[、．]第.+章/,'第$1章')\n.replace(/^(\\d+)、\\d+、/,'第$1章 ')\n.replace(/^(\\d+)、\\d+/,'第$1章')\n.replace(/^(\\d+)、/,'第$1章 ')\n.replace(/^(第.+章)\\s?第.+章/,'$1')\n.replace(/第\\s(.+)\\s章/,'第$1章')\n.replace(/.*(chapter|Chapter)\\s?(\\d+)\\s?/,'$1 $2 ')\n.replace(/\\(.+\\)/,'')\n.replace(/\\[|。/,'')\n.replace(/第([零一二两三四五六七八九十百千]+)章/g,java.toNumChapter(result))\n##(章)([^\\s]+)(\\s·)##$1 $2$3",
+    "name": ".novel-item-title@text"
+  },
+  "ruleToc": {
+    "chapterList": "<js>method(result)</js>\n@css:\n.volume,.chapter-list>li\n\n@js:\nlist=[]\n$=result\nfor(i in $){\nif(String($[i]).match(/class=\"volume/)){\n\tt=String($[i].text()).replace(new RegExp(book.name,''),'');\n\t\tlist.push({\n\t\t\t\ttext: \"🏮〖\"+t+\"〗🏮\",\n\t\t\t\tvolume: true\n\t\t\t})\n\t}\nelse{\n\t\t$[i].select(\"a\").forEach(a=>{\n\t\t\t\tlist.push({\n\t\t\t\t\t\ttext: a.text(),\n\t\t\t\t\t\thref: a.attr(\"href\")\n\t\t\t\t\t})\n\t\t\t})\n\t}\n}\nlist",
+    "chapterName": "text",
+    "chapterUrl": "href",
+    "isVolume": "volume"
+  },
+  "searchUrl": "s/{{key}}?q={{key}}",
+  "weight": 0
+},
+{
   "bookSourceComment": "",
   "bookSourceGroup": "yzc",
-  "bookSourceName": "爱宝贝-yzc", 
+  "bookSourceName": "爱宝贝（倒闭）-yzc", 
   "bookSourceType": 0,
   "bookSourceUrl": "https://www.ibabyxs8.com",
   "customOrder": -2085978355,
-  "enabled": true,
+  "enabled": false,
   "enabledCookieJar": false,
   "enabledExplore": false,
   "header": "",
@@ -49,15 +134,15 @@
 },
   {
     "bookSourceComment": "20241029",
-    "bookSourceGroup": "电报yzc",
-    "bookSourceName": "玄幻阁-yzc",
+    "bookSourceGroup": "yzc",
+    "bookSourceName": "玄幻阁（倒闭）-yzc",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.xuankuge.com",
     "bookUrlPattern": "",
     "customOrder": -2085978354,
-    "enabled": true,
+    "enabled": false,
     "enabledCookieJar": true,
-    "enabledExplore": true,
+    "enabledExplore": false,
     "exploreUrl": "[{\"title\":\"玄幻\",\"url\":\"/sort1/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"武侠\",\"url\":\"/sort2/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"都市\",\"url\":\"/sort3/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"历史\",\"url\":\"/sort4/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"言情\",\"url\":\"/sort5/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"穿越\",\"url\":\"/sort6/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"科幻\",\"url\":\"/sort7/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"恐怖\",\"url\":\"/sort8/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"校园\",\"url\":\"/sort9/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"异界\",\"url\":\"/sort10/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"全本\",\"url\":\"/quanben/{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}}]",
     "lastUpdateTime": 1680505076233,
     "loginUrl": "",
@@ -100,13 +185,13 @@
     "bookSourceGroup": "yzc",
     "bookSourceName": "阅读库-yzc",
     "bookSourceType": 0,
-    "bookSourceUrl": "http://www.yuedsk.com",
-    "bookUrlPattern": "http://www.yuedsk.com/book/\\d+/",
+    "bookSourceUrl": "http://www.yeudusk.com/",
+    "bookUrlPattern": "http://www.yeudusk.com/book/\\d+/",
     "customOrder": -2085978170,
     "enabled": true,
     "enabledCookieJar": true,
     "enabledExplore": true,
-    "exploreUrl": "玄幻·魔法::http://www.yuedsk.com/book/sort1/0/{{page}}.html\n武侠·修真::http://www.yuedsk.com/book/sort2/0/{{page}}.html\n都市·言情::http://www.yuedsk.com/book/sort3/0/{{page}}.html\n历史·军事::http://www.yuedsk.com/book/sort4/0/{{page}}.html\n穿越·架空::http://www.yuedsk.com/book/sort5/0/{{page}}.html\n游戏·竞技::http://www.yuedsk.com/book/sort6/0/{{page}}.html\n经部::http://www.yuedsk.com/book/sort11/0/{{page}}.html\n史部::http://www.yuedsk.com/book/sort12/0/{{page}}.html\n子部::http://www.yuedsk.com/book/sort13/0/{{page}}.html\n集部::http://www.yuedsk.com/book/sort14/0/{{page}}.html\n古典·名著::http://www.yuedsk.com/book/sort16/0/{{page}}.html",
+    "exploreUrl": "玄幻·魔法::http://www.yeudusk.com/book/sort1/0/{{page}}.html\n武侠·修真::http://www.yeudusk.com/book/sort2/0/{{page}}.html\n都市·言情::http://www.yeudusk.com/book/sort3/0/{{page}}.html\n历史·军事::http://www.yeudusk.com/book/sort4/0/{{page}}.html\n穿越·架空::http://www.yeudusk.com/book/sort5/0/{{page}}.html\n游戏·竞技::http://www.yeudusk.com/book/sort6/0/{{page}}.html\n经部::http://www.yeudusk.com/book/sort11/0/{{page}}.html\n史部::http://www.yeudusk.com/book/sort12/0/{{page}}.html\n子部::http://www.yeudusk.com/book/sort13/0/{{page}}.html\n集部::http://www.yeudusk.com/book/sort14/0/{{page}}.html\n古典·名著::http://www.yeudusk.com/book/sort16/0/{{page}}.html",
     "lastUpdateTime": 1690977800085,
     "respondTime": 6512,
     "ruleBookInfo": {
@@ -135,7 +220,7 @@
       "author": ".c_tag span.1@text",
       "bookList": ".c_row",
       "bookUrl": "a.1@href",
-      "checkKeyWord": "",
+      "checkKeyWord": "深渊",
       "coverUrl": "img@src",
       "kind": ".c_tag span.3:7:-1@text",
       "lastChapter": ".c_value a@text",
@@ -148,7 +233,7 @@
       "chapterUrl": "href",
       "updateTime": "title"
     },
-    "searchUrl": "http://www.yuedsk.com/modules/article/search.php?q={{key}}",
+    "searchUrl": "http://www.yeudusk.com/modules/article/search.php?q={{key}}",
     "weight": 0
   },
   {
@@ -180,7 +265,7 @@
       "author": "span@text",
       "bookList": ".item",
       "bookUrl": "a.1@href",
-      "checkKeyWord": "",
+      "checkKeyWord": "深渊",
       "coverUrl": "img@src",
       "intro": "dd@text",
       "name": "a.1@text"
